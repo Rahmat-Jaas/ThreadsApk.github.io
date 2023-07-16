@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/browser_back" android:tint="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_normal_text_color"/>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/browser_back" android:tint="@color/fundraiser_sticker_consumption_sheet_donation_disclaimer_bold_text_color"/>
+    </item>
+</selector>

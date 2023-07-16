@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <raw name="ads_countries_config">r/ktt.json</raw>
+    <raw name="currency_format_config">r/ktu.json</raw>
+    <raw name="date_format_config">r/ktv.json</raw>
+    <raw name="number_format_config">r/kru.json</raw>
+</resources>

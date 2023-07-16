@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:color="@color/igds_icon_on_color" kf:state_blue="true"/>
+    <item android:color="@color/igds_primary_text" kf:state_grey="true"/>
+    <item android:color="@color/igds_primary_button" kf:state_transparent="true"/>
+</selector>

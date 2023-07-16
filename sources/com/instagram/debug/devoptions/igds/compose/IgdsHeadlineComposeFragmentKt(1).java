@@ -1,0 +1,92 @@
+package com.instagram.debug.devoptions.igds.compose;
+
+import X.AnonymousClass0YM;
+import X.AnonymousClass0ZU;
+import X.AnonymousClass670;
+import X.AnonymousClass6QP;
+import X.AnonymousClass6QZ;
+import X.AnonymousClass74X;
+import X.AnonymousClass7Ad;
+import X.AnonymousClass7J3;
+import X.AnonymousClass7KP;
+import X.AnonymousClass7KV;
+import X.AnonymousClass7W3;
+import X.AnonymousClass7WO;
+import X.C115286uo;
+import X.C120577Bm;
+import X.C122847Ub;
+import X.C132797uW;
+import X.C132807uX;
+import X.C142498ex;
+import X.C142878fk;
+import X.C146288ly;
+import X.C147178nW;
+import X.C147188nY;
+import X.C147268p4;
+import X.C98236Es;
+import android.content.Context;
+import androidx.compose.ui.Modifier;
+import com.instagram.barcelona.R;
+import com.instagram.user.model.User;
+
+public final class IgdsHeadlineComposeFragmentKt {
+    public static final void IgdsHeadlineExamples(Context context, User user, C147188nY r37, int i) {
+        C147188nY r9 = r37;
+        r9.Cvd(16398255);
+        C122847Ub A00 = AnonymousClass7Ad.A00(r9);
+        C142878fk r2 = AnonymousClass7KV.A00;
+        C147268p4 r1 = AnonymousClass7J3.A02;
+        Modifier A01 = AnonymousClass7Ad.A01(A00, Modifier.A04(Modifier.A00));
+        C146288ly A0f = C147188nY.A0f(r1, r9, r2);
+        Object A0p = C147188nY.A0p(r9);
+        Object A0n = C147188nY.A0n(r9);
+        Object A0m = C147188nY.A0m(r9);
+        AnonymousClass0ZU r12 = AnonymousClass74X.A00;
+        AnonymousClass0YM A002 = C98236Es.A00(A01);
+        AnonymousClass7W3 r7 = (AnonymousClass7W3) r9;
+        C147188nY.A0w(r9, r7, r12);
+        AnonymousClass7W3.A0a(r9, r7, A0f, A0p);
+        AnonymousClass7KP.A07(r9, A0n, A0m, A002);
+        r9.Cvb(-1944944647);
+        C115286uo A003 = AnonymousClass6QP.A00(r9, R.drawable.instagram_hashtag_outline_96);
+        User user2 = user;
+        C115286uo A012 = C120577Bm.A01(r9, user2.B4M());
+        AnonymousClass670 r11 = AnonymousClass670.DEFAULT;
+        float f = (float) 56;
+        Context context2 = context;
+        AnonymousClass6QZ.A00(r9, new C132797uW(A003, f), r11, "This is a headline", "This is optional body 1 text used to elaborate on the headline and articulate key value.", "This is optional body 2 text that provides additional information or details, like parameters.", "Emphasized action", new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$1(context2), 224710, 0);
+        AnonymousClass670 r21 = AnonymousClass670.EMPHASIZED;
+        float f2 = (float) 96;
+        C147188nY r19 = r9;
+        String str = "This is a headline";
+        String str2 = "This is optional body 1 text used to elaborate on the headline and articulate key value.";
+        String str3 = "This is optional body 2 text that provides additional information or details, like parameters.";
+        String str4 = "Emphasized action";
+        AnonymousClass6QZ.A00(r19, new C132797uW(A003, f2), r21, str, str2, str3, str4, new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$2(context2), 224710, 0);
+        AnonymousClass6QZ.A00(r9, new C132807uX(A012, f), r11, "This is a headline", "This is optional body 1 text used to elaborate on the headline and articulate key value.", "This is optional body 2 text that provides additional information or details, like parameters.", "Emphasized action", new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$3(context2), 224710, 0);
+        AnonymousClass6QZ.A00(r19, new C132807uX(A012, f2), r21, str, str2, str3, str4, new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$4(context2), 224710, 0);
+        C147188nY r25 = r9;
+        AnonymousClass670 r27 = r11;
+        AnonymousClass6QZ.A00(r25, new C132797uW(A003, f), r27, "Headline with icon only", (String) null, (String) null, (String) null, (AnonymousClass0ZU) null, 454, 120);
+        AnonymousClass6QZ.A00(r25, new C132807uX(A012, f), r27, "Headline with profile picture only", (String) null, (String) null, (String) null, (AnonymousClass0ZU) null, 454, 120);
+        C147188nY r16 = r9;
+        AnonymousClass670 r18 = r11;
+        String str5 = "This is optional body 1 text used to elaborate on the headline and articulate key value.";
+        AnonymousClass6QZ.A00(r16, new C132797uW(A003, f), r18, "Headline with icon and body text", str5, (String) null, (String) null, (AnonymousClass0ZU) null, 3526, 112);
+        AnonymousClass6QZ.A00(r16, new C132807uX(A012, f), r18, "Headline with profile picture and body text", str5, (String) null, (String) null, (AnonymousClass0ZU) null, 3526, 112);
+        C147188nY r252 = r9;
+        String str6 = "Emphasized action";
+        AnonymousClass6QZ.A00(r252, new C132797uW(A003, f), r27, "Headline with icon and button text", (String) null, (String) null, str6, new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$5(context2), 197062, 24);
+        AnonymousClass6QZ.A00(r252, new C132807uX(A012, f), r27, "Headline with profile picture and button text", (String) null, (String) null, str6, new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$6(context2), 197062, 24);
+        AnonymousClass6QZ.A00(r16, (C142498ex) null, r18, "Headline with body text only", str5, (String) null, (String) null, (AnonymousClass0ZU) null, 3462, 114);
+        AnonymousClass6QZ.A00(r9, (C142498ex) null, r11, "Headline with button text only", (String) null, (String) null, "Emphasized action", new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$7(context2), 196998, 26);
+        AnonymousClass6QZ.A00(r16, (C142498ex) null, r18, "Headline with body text and subtext", str5, "This is optional body 2 text that provides additional information or details, like parameters.", (String) null, (AnonymousClass0ZU) null, 28038, 98);
+        AnonymousClass6QZ.A00(r16, (C142498ex) null, r18, "Headline with body text and button text", str5, (String) null, "Emphasized action", new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$8(context2), 200070, 18);
+        AnonymousClass6QZ.A00(r9, (C142498ex) null, r11, "Headline with all texts", "This is optional body 1 text used to elaborate on the headline and articulate key value.", "This is optional body 2 text that provides additional information or details, like parameters.", "Emphasized action", new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$1$9(context2), 224646, 2);
+        AnonymousClass7W3.A0f(r7);
+        C147178nW AKE = r9.AKE();
+        if (AKE != null) {
+            AnonymousClass7WO.A00(AKE, new IgdsHeadlineComposeFragmentKt$IgdsHeadlineExamples$2(context2, user2, i));
+        }
+    }
+}

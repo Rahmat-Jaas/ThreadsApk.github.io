@@ -1,0 +1,19 @@
+package X;
+
+/* renamed from: X.29k  reason: invalid class name and case insensitive filesystem */
+public enum C319029k implements C021109v {
+    CCP_LAUNCHER_IS_ENABLED_IS_FALSE("CCP_LAUNCHER_IS_ENABLED_IS_FALSE"),
+    NO_LINKED_FACEBOOK_ACCOUNT("NO_LINKED_FACEBOOK_ACCOUNT"),
+    SHARE_TO_FB_CONTAINER_NULL_DURING_BIND("SHARE_TO_FB_CONTAINER_NULL_DURING_BIND"),
+    SHARE_TO_FB_VIEW_STATE_NULL_DURING_BIND("SHARE_TO_FB_VIEW_STATE_NULL_DURING_BIND"),
+    USER_IN_NO_SHARING_GK("USER_IN_NO_SHARING_GK"),
+    XAR_IS_ENABLED_ON_SERVER("XAR_IS_ENABLED_ON_SERVER"),
+    XAR_TOGGLE_IS_MORE_RECENT_THAN_CCP("XAR_TOGGLE_IS_MORE_RECENT_THAN_CCP");
+    
+    public final String A00;
+
+    /* access modifiers changed from: public */
+    C319029k(String str) {
+        this.A00 = str;
+    }
+}

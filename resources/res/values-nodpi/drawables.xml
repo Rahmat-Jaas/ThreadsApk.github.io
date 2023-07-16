@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="auto_dropdown_background_down">r/de6.9.png</drawable>
+    <drawable name="auto_dropdown_background_up">r/de7.9.png</drawable>
+    <drawable name="channel_scrim">r/de8.webp</drawable>
+    <drawable name="fuse_1">r/de9.png</drawable>
+    <drawable name="fuse_2">r/de_.png</drawable>
+    <drawable name="fuse_3">r/de-.png</drawable>
+    <drawable name="fuse_4">r/dfa.png</drawable>
+    <drawable name="fuse_5">r/dfb.png</drawable>
+    <drawable name="fuse_6">r/dfc.webp</drawable>
+    <drawable name="fuse_7">r/dfd.png</drawable>
+    <drawable name="fuse_8">r/dfe.png</drawable>
+    <drawable name="fuse_9">r/dff.png</drawable>
+    <drawable name="new_feed_pill_shadow">r/dfg.9.png</drawable>
+    <drawable name="sticker_blue_glasses">r/dfh.png</drawable>
+    <drawable name="sticker_hearts">r/dfi.png</drawable>
+    <drawable name="sticker_mustache">r/dfj.png</drawable>
+    <drawable name="sticker_sunglasses">r/dfk.png</drawable>
+    <drawable name="sticker_unicorn">r/dfl.png</drawable>
+    <drawable name="trim_frame_bg">r/dfm.9.png</drawable>
+</resources>

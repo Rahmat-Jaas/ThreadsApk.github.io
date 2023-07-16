@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <xml name="backup_rules">r/kwv.xml</xml>
+    <xml name="barcelona_file_provider_paths">r/kww.xml</xml>
+    <xml name="direct_app_widget_info">r/kwx.xml</xml>
+    <xml name="fb_network_security_config">r/kwy.xml</xml>
+    <xml name="rn_dev_preferences">r/kwz.xml</xml>
+    <xml name="searchable">r/kw0.xml</xml>
+</resources>

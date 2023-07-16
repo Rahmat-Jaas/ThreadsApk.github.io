@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="camera_contour_corner_rounded">r/bh7.png</drawable>
+    <drawable name="eligible_checkmark">R||AQAIRG-sisaC|144|144|120</drawable>
+    <drawable name="fingerprint_dialog_error">r/bh6.png</drawable>
+    <drawable name="ineligible_x">R||AQAIf9jDKxjw|144|144|120</drawable>
+</resources>

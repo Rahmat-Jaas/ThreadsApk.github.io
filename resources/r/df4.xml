@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" android:color="@color/feedPressStateBackgroundColor" android:radius="@dimen/abc_select_dialog_padding_start_material">
+    <item android:id="@android:id/mask">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/white"/>
+        </shape>
+    </item>
+</ripple>

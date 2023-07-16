@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/igds_separator"/>
+        </shape>
+    </item>
+    <item android:bottom="0.5dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/direct_widget_primary_background"/>
+        </shape>
+    </item>
+</layer-list>

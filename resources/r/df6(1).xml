@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto">
+    <padding android:top="@dimen/material_cursor_inset_top" android:bottom="@dimen/fbpay_ui_accordion_border_cutoff"/>
+    <size android:width="@dimen/abc_control_corner_material"/>
+    <solid android:color="?attr/colorPrimary"/>
+</shape>

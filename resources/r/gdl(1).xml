@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:opacity="opaque">
+    <item>
+        <color android:color="@color/splash_screen_background"/>
+    </item>
+    <item android:bottom="88dp">
+        <bitmap android:gravity="center" android:src="@drawable/barcelona_gradient"/>
+    </item>
+    <item android:bottom="80dp">
+        <bitmap android:gravity="bottom" android:src="@mipmap/barcelona_from_meta"/>
+    </item>
+</layer-list>

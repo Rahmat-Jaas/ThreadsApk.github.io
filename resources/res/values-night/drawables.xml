@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="background_action">r/cyc.xml</drawable>
+    <drawable name="border_bottom">r/cyd.xml</drawable>
+    <drawable name="border_top">r/cye.xml</drawable>
+    <drawable name="close_friends_badge_background">r/cyf.xml</drawable>
+    <drawable name="elevated_background_action">r/cyg.xml</drawable>
+    <drawable name="empty_state_follow_avatar">r/cyh.xml</drawable>
+    <drawable name="grey_square_border">r/cyi.xml</drawable>
+    <drawable name="instagram_video_chat_halloween_bat_night">r/cyj.xml</drawable>
+    <drawable name="instagram_video_chat_halloween_pumpkin_night">r/cyk.xml</drawable>
+    <drawable name="map_tooltip_arrow">r/cyl.xml</drawable>
+    <drawable name="map_tooltip_background">r/cym.xml</drawable>
+    <drawable name="pulse_circle">r/cyn.xml</drawable>
+    <drawable name="reel_upload_determinate_progress">r/cyo.xml</drawable>
+    <drawable name="reg_username_suggestion_button">r/cyp.xml</drawable>
+    <drawable name="suggested_user_card_private_profile_notice_background">r/cyq.xml</drawable>
+    <drawable name="text_color_gift_feed_filter">r/cyr.xml</drawable>
+    <drawable name="track_scrubber_style">r/cys.xml</drawable>
+    <drawable name="user_card_background">r/cyt.xml</drawable>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="@color/white_10_transparent"/>
+                </shape>
+            </item>
+            <item android:left="10dp" android:top="10dp" android:right="10dp" android:bottom="10dp">
+                <shape android:shape="oval">
+                    <solid android:color="@color/feed_sticker_background_top_light"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="@color/fds_transparent"/>
+                </shape>
+            </item>
+            <item android:left="10dp" android:top="10dp" android:right="10dp" android:bottom="10dp">
+                <shape android:shape="oval">
+                    <solid android:color="@color/feed_sticker_background_top_light"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

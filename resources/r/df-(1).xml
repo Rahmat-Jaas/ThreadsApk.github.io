@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto">
+    <item android:gravity="bottom|center_vertical|center_horizontal|center" android:height="38dp" android:width="82dp" android:bottom="32dp">
+        <bitmap android:gravity="bottom|center_vertical|center_horizontal|center" android:src="@mipmap/barcelona_from_meta"/>
+    </item>
+</layer-list>

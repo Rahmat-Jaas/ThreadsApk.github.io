@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/igds_secondary_button_on_media"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/fast_forward_button__app_bitmap_0" android:left="@dimen/abc_dialog_padding_material" android:top="@dimen/abc_dialog_padding_material" android:right="@dimen/abc_dialog_padding_material" android:bottom="@dimen/abc_dialog_padding_material"/>
+</layer-list>

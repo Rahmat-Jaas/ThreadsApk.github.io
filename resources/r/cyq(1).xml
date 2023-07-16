@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto">
+    <solid android:color="@color/camera_pre_capture_utility_menu_color"/>
+    <stroke android:width="1px" android:color="@color/grey_8"/>
+</shape>

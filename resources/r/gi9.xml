@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="oval">
+    <solid android:color="@color/igds_active_badge"/>
+    <stroke android:width="3dp" android:color="@color/grey_9"/>
+    <size android:height="18dp" android:width="18dp"/>
+</shape>

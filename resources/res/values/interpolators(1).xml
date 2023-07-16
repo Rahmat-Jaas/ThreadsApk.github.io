@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <interpolator name="btn_checkbox_checked_mtrl_animation_interpolator_0">r/hks.xml</interpolator>
+    <interpolator name="btn_checkbox_checked_mtrl_animation_interpolator_1">r/hkt.xml</interpolator>
+    <interpolator name="btn_radio_to_off_mtrl_animation_interpolator_0">r/hku.xml</interpolator>
+    <interpolator name="fast_out_slow_in">r/hkq.xml</interpolator>
+    <interpolator name="mtrl_fast_out_linear_in">r/hkp.xml</interpolator>
+    <interpolator name="mtrl_linear">r/hkv.xml</interpolator>
+    <interpolator name="mtrl_linear_out_slow_in">r/hkr.xml</interpolator>
+</resources>

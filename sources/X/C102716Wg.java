@@ -1,0 +1,6 @@
+package X;
+
+/* renamed from: X.6Wg  reason: invalid class name and case insensitive filesystem */
+public final class C102716Wg {
+    public static final AnonymousClass534 A00 = AnonymousClass533.A00(AnonymousClass4Zh.A00);
+}

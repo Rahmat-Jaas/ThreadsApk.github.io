@@ -1,0 +1,21 @@
+package X;
+
+/* renamed from: X.68S  reason: invalid class name */
+public enum AnonymousClass68S {
+    TEST,
+    TRAIN,
+    TRAIN_ALL,
+    PREDICT,
+    PREDICT_ALL,
+    SIGNAL_STORE_COLLECT,
+    SIGNAL_STORE_COLLECT_ALL,
+    SIGNAL_STORE_STORE,
+    SIGNAL_STORE_EXTRACT,
+    DEFAULT_TASK,
+    SIGNAL_STORE_METADATA_FETCH,
+    DCP_METADATA_FETCH,
+    USER_PREDICT,
+    PYTORCH_DOWNLOAD,
+    PREDICT_AND_TRAIN,
+    FEATURES_AGGREGATION
+}

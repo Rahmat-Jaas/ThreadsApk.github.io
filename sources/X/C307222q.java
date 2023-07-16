@@ -1,0 +1,13 @@
+package X;
+
+/* renamed from: X.22q  reason: invalid class name and case insensitive filesystem */
+public enum C307222q {
+    USER_LEAVE_HINT,
+    VIEW_SLIDE_MENTION_FROM_COMMENTS,
+    VIEW_HASHTAG_FROM_COMMENTS,
+    VIEW_COMMENTS_FROM_COMMENTS,
+    VIEW_COMMENTS_COUNT_FROM_COMMENTS,
+    VIEW_VIEWS_FROM_COMMENTS,
+    VIEW_LIKES_FROM_COMMENTS,
+    VIEW_MUTUAL_FOLLOWERS_FROM_COMMENTS
+}

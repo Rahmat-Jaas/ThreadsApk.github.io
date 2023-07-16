@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_pressed="true" android:color="@color/blue_2" kf:state_blue="true"/>
+    <item android:color="@color/blue_5" kf:state_blue="true"/>
+    <item android:state_pressed="true" android:color="@color/grey_6" kf:state_grey="true"/>
+    <item android:color="@color/grey_9" kf:state_grey="true"/>
+</selector>

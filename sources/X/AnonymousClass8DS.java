@@ -1,0 +1,14 @@
+package X;
+
+/* renamed from: X.8DS  reason: invalid class name */
+public final /* synthetic */ class AnonymousClass8DS extends AnonymousClass019 implements AnonymousClass0YP {
+    public static final AnonymousClass8DS A00 = new AnonymousClass8DS();
+
+    public AnonymousClass8DS() {
+        super(2, AnonymousClass8bA.class, "min", "min(II)I", 1);
+    }
+
+    public final /* bridge */ /* synthetic */ Object invoke(Object obj, Object obj2) {
+        return Integer.valueOf(Math.min(AnonymousClass0wJ.A04(obj), AnonymousClass0wJ.A04(obj2)));
+    }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:amazon="http://schemas.amazon.com/apk/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="rectangle">
+    <corners android:topLeftRadius="@dimen/autofill_optimization_title_top_margin" android:topRightRadius="@dimen/autofill_optimization_title_top_margin" android:bottomLeftRadius="@dimen/autofill_optimization_title_top_margin" android:bottomRightRadius="@dimen/autofill_optimization_title_top_margin"/>
+    <solid android:color="@color/fds_white_alpha60"/>
+    <size android:height="@dimen/add_hashtags_notice_padding_horizontal" android:width="@dimen/accent_edge_thickness"/>
+</shape>

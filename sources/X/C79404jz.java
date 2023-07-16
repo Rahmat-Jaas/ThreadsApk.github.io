@@ -1,0 +1,14 @@
+package X;
+
+/* renamed from: X.4jz  reason: invalid class name and case insensitive filesystem */
+public final class C79404jz extends C02220Ah implements AnonymousClass0YY {
+    public static final C79404jz A00 = new C79404jz();
+
+    public C79404jz() {
+        super(1);
+    }
+
+    public final /* bridge */ /* synthetic */ Object invoke(Object obj) {
+        return null;
+    }
+}

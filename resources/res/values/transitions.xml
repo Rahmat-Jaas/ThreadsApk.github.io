@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <transition name="shared_image">r/kwt.xml</transition>
+    <transition name="shared_image_change_bounds_only">r/kwu.xml</transition>
+</resources>
